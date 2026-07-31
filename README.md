@@ -50,8 +50,8 @@ The full query script is provided in `Decodelabs_Project_3_SQL.sql`. It covers:
 - Understanding logical query execution order (`FROM` → `WHERE` → `GROUP BY` → `HAVING` → `SELECT` → `ORDER BY`), rather than the order SQL is written in
 
 ##  Deliverables
-- `Decodelabs_Project_3_SQL.sql` — full script with all 20 queries.
-- `Decodelabs_Project_3_SQL_Results.csv` — exported query results.
+- `Decodelabs Project 3 SQL.sql`  full script with all 20 queries.
+- `Decodelabs Project 3 SQL Results`  exported query results.
 
 ##  Key Skill Demonstrated
 SQL fundamentals: querying, filtering, grouping, aggregation, and window functions for business intelligence reporting.
