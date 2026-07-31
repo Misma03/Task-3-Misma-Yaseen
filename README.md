@@ -1,14 +1,14 @@
 # Project 3: SQL Data Analysis
 
-**Internship:** DecodeLabs Data Analytics Industrial Training (Batch 2026)
+Internship: DecodeLabs Data Analytics Industrial Training (Batch 2026)
 
 ##  Objective
-Use SQL queries to extract business insights from the cleaned dataset — filtering, grouping, and aggregating raw records into actionable intelligence using Microsoft SQL Server.
+Use SQL queries to extract business insights from the cleaned dataset  filtering, grouping, and aggregating raw records into actionable intelligence using Microsoft SQL Server.
 
 ##  Dataset
 Database: Microsoft SQL Server
 Table: `Dataset`
-Rows: 2,000+ (verified via `COUNT(*)`)
+Rows: 1200 (verified via `COUNT(*)`)
 
 ##  Tools & Technologies
 - Microsoft SQL Server (T-SQL)
